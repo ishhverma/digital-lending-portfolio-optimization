@@ -174,7 +174,5 @@ digital-lending-portfolio-optimization/
 ```
 
 # Author
-
-# Ishu Verma
-
-# Aspiring Business Analyst | Risk Analytics | Consulting & Data Strategy.
+### Ishu Verma
+### Aspiring Business Analyst | Risk Analytics | Consulting & Data Strategy.
